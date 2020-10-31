@@ -1,3 +1,1 @@
-Este es mi repositorio
-
-Segunda línea
+Proyecto de Checkpoint 1
